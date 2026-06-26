@@ -2,5 +2,5 @@ Hello, QWALLITY team!
 This is a simple text file.
 I am testing Visual Studio Code.
 Each line contains a short sentence.
-Editing text is easy and fast.
+Edited text in main branch
 Have a great day!
